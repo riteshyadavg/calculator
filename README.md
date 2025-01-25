@@ -2,8 +2,6 @@
  
 **Project Title: CalcJoy - JavaScript Calculator 🧮🎨**
 
-**link**- https://priyanshufox.github.io/online-Calculator.github.io/
-
 **Project Description:**
 
 CalcJoy is a stylish and functional calculator web application built using JavaScript and CSS. This project provides users with a modern and interactive way to perform arithmetic calculations quickly and efficiently.
